@@ -1,6 +1,6 @@
 # What To Do After You Hit Return
 
-*What to Do After you Hit Return* is a collection of computer games first published by the People's Computer Company (PCC) in 1975. Many of these games would re-appear in MS-BASIC versions in the much more famous ["BASIC Computer Games"](https://github.com/GReaperEx/bcg) in 1978.
+*[What to Do After you Hit Return](https://archive.org/details/Whattodoafteryouhitreturn/mode/2up)* is a collection of computer games first published by the People's Computer Company (PCC) in 1975. Many of these games would re-appear in MS-BASIC versions in the much more famous ["BASIC Computer Games"](https://github.com/GReaperEx/bcg) in 1978.
 
 The versions in this repository were written in HP-BASIC, for the then-popular [HP 2000](https://en.wikipedia.org/wiki/HP_2100) systems. This makes the source somewhat harder to convert to "modern vintage" systems based on MS-derived BASICs like those found on the Apple II or Commodore line. There are hints of a 1978 edition of the book converted to MS-BASIC, but I have not found a copy of that release, if it exists.
 
